@@ -5,7 +5,7 @@
 
 If you have questions, remarks, technical issues etc. feel free to use the issues page of this repository. I am looking forward to your feedback and the discussion.
 
-> Introduction: [link]()
+> Introduction: [link](https://github.com/QiYuan-Zhang/QYtool)
 > 
 > PyPI site: [link]()
 
