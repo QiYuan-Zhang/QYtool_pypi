@@ -5,8 +5,10 @@
 >
 >If you have questions, remarks, technical issues etc. feel free to use the issues page of this repository. I am looking forward to your feedback and the discussion.
 >
-> Introduction: [link](https://github.com/QiYuan-Zhang/QYtool)
+> Introduction: [link](https://qiyuan-zhang.github.io/my-toolbox/2024/08/29/Developed-QYtool.html)
 > 
+> GitHub project: [link](https://github.com/QiYuan-Zhang/QYtool) 
+>
 > PyPI site: [link](https://pypi.org/project/QYtool/)
 
 ---
