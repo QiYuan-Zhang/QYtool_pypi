@@ -2,9 +2,9 @@
 
 > A wrapped useful tool package designed for research purposes, tailored specifically for my own research needs.
 > Author: Xuewen Zhang
-
-If you have questions, remarks, technical issues etc. feel free to use the issues page of this repository. I am looking forward to your feedback and the discussion.
-
+>
+>If you have questions, remarks, technical issues etc. feel free to use the issues page of this repository. I am looking forward to your feedback and the discussion.
+>
 > Introduction: [link](https://github.com/QiYuan-Zhang/QYtool)
 > 
 > PyPI site: [link](https://pypi.org/project/QYtool/)
@@ -37,7 +37,7 @@ This package operates within the Python framework.
 Then you can use the deepctools in your python project.
 
 
-### II. QYtool toolbox organization
+## II. QYtool toolbox organization
 ```
 . 
 └── mytool
@@ -52,13 +52,13 @@ Then you can use the deepctools in your python project.
 
 ## Version update
 
-#### **1.0.0**: initial commit
+- 1.0.0: initial commit
 
-#### 1.0.1 - 1.0.6: under development with name: `mytool`
+- 1.0.1 - 1.0.6: under development with name: `mytool`
 
-#### 1.0.7: published and changed name to `QYtool`
+- 1.0.7: published and changed name to `QYtool`
 
-#### 1.0.8: update README
+- 1.0.8: update README
 
 ## License
 
